@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Issue Analytics: turn GitHub issues into a live analytics dashboard">
+  <rect width="1000" height="220" rx="16" fill="#12304F"/>
+  <g font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="48" y="95" font-size="46" font-weight="700" fill="#FFFFFF">Issue Analytics</text>
+    <text x="48" y="135" font-size="18" fill="#C7D0E0">Turn GitHub issues into a live analytics dashboard.</text>
+    <g font-size="13" font-weight="600" text-anchor="middle" fill="#0F1B33">
+      <rect x="48" y="158" width="80" height="28" rx="14" fill="#3DD6C0"/><text x="88" y="177">FastAPI</text>
+      <rect x="136" y="158" width="70" height="28" rx="14" fill="#3DD6C0"/><text x="171" y="177">React</text>
+      <rect x="214" y="158" width="104" height="28" rx="14" fill="#3DD6C0"/><text x="266" y="177">SQLAlchemy</text>
+      <rect x="326" y="158" width="108" height="28" rx="14" fill="#3DD6C0"/><text x="380" y="177">PostgreSQL</text>
+    </g>
+  </g>
+  <line x1="636" y1="180" x2="924" y2="180" stroke="#2C4A6B" stroke-width="2"/>
+  <rect x="650" y="120" width="28" height="60" rx="5" fill="#3DD6C0">
+    <animate attributeName="height" values="60;95;60" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="120;85;120" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="696" y="85" width="28" height="95" rx="5" fill="#3DD6C0">
+    <animate attributeName="height" values="95;60;95" dur="3s" begin="0.25s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="85;120;85" dur="3s" begin="0.25s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="742" y="135" width="28" height="45" rx="5" fill="#E8890C">
+    <animate attributeName="height" values="45;110;45" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="135;70;135" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="788" y="70" width="28" height="110" rx="5" fill="#3DD6C0">
+    <animate attributeName="height" values="110;45;110" dur="3s" begin="0.75s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="70;135;70" dur="3s" begin="0.75s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="834" y="105" width="28" height="75" rx="5" fill="#E8890C">
+    <animate attributeName="height" values="75;90;75" dur="3s" begin="1s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="105;90;105" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="880" y="90" width="28" height="90" rx="5" fill="#3DD6C0">
+    <animate attributeName="height" values="90;75;90" dur="3s" begin="1.25s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="90;105;90" dur="3s" begin="1.25s" repeatCount="indefinite"/>
+  </rect>
+</svg>
